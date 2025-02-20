@@ -10,11 +10,11 @@ public class Point {
         this.y = y;
     }
 
-    public static int getX(Point point) {
-        return point.x;
+    public int gextX() {
+        return x;
     }
-    public static int getY(Point point) {
-        return point.y;
+    public int getY() {
+        return y;
     }
 }
 // END
